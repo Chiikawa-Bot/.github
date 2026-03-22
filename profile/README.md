@@ -1,12 +1,8 @@
-## Hi there 👋
+### **`chiikawa ><`**
 
-<!--
+Chiikawa is a highly versatile Discord bot built with a strong focus on flexibility and ease of use, packed with powerful features including an embed builder, welcomer, custom content tools, utility commands, moderation, and much more!
 
-**Here are some ideas to get you started:**
+<a href="https://discord.com/oauth2/authorize?client_id=1480220160374739024&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2FpZwv6njtFj&integration_type=0&scope=guilds+bot">**Invite**</a> -
+<a href="https://discord.gg/pZwv6njtFj">**Support Server**</a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Before using our bot, please read our <a href="https://www.baobun.dev/terms">Terms of Service</a> and <a href="https://www.baobun.dev/privacy">Privacy Policy</a>
